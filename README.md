@@ -1,6 +1,6 @@
 # Word2Vec
 
-[![Twitter](https://img.shields.io/badge/Twitter-競馬AI班-blue?style=flat-square&logo=twitter)](https://twitter.com/search?q=%23rcc_nlp)
+[![Twitter](https://img.shields.io/badge/Twitter-自然言語処理班-blue?style=flat-square&logo=twitter)](https://twitter.com/search?q=%23rcc_nlp)
 
 RCC 2020 年度プロジェクト活動
 
